@@ -1,0 +1,13 @@
+# Output files
+ideas/
+*.pdf
+*.txt
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
